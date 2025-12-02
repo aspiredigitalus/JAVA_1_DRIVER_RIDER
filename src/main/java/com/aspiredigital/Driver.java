@@ -7,7 +7,7 @@ package com.aspiredigital;
 
 public class Driver {
     public static void main(String[] args) {
-        // insert code here
+        System.out.println("This is the main method of the driver class");
     }
 }
 
