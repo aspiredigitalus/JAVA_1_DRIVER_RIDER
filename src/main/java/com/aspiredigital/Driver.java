@@ -12,7 +12,8 @@ public class Driver {
 
         rider.methodA();
         rider.methodB();
-
+        String methodCString = rider.methodC();
+        System.out.println(methodCString);
 
     }
 }
