@@ -1,4 +1,4 @@
-# com.aspiredigital.Driver & com.aspiredigital.Rider Assignment
+# Driver & Rider Assignment
 
 ## Goal
 This goal is to edit the com.aspiredigital.Driver file only in order to output exactly
