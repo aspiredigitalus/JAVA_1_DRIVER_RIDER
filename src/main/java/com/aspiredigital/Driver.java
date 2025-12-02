@@ -14,6 +14,8 @@ public class Driver {
         rider.methodB();
         String methodCString = rider.methodC();
         System.out.println(methodCString);
+        String methodDString = rider.methodD('D');
+        System.out.println(methodDString);
 
     }
 }
