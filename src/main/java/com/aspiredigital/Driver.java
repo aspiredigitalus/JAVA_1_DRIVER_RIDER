@@ -8,6 +8,12 @@ package com.aspiredigital;
 public class Driver {
     public static void main(String[] args) {
         // insert code here
+        System.out.println("This is the main method of the driver class");
+        Rider rider = new Rider();
+        rider.methodA();
+        rider.methodB();
+        System.out.println(rider.methodC());
+        System.out.println(rider.methodD('D'));
     }
 }
 
